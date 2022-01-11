@@ -29,7 +29,8 @@
 	** Image Negative
 	** Miroir d'image
 	
-	
+(fonctionne avec nodeJS)
+
 
 
 
